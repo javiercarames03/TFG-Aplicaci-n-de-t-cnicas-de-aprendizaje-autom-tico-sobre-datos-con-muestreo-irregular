@@ -27,9 +27,3 @@ El estudio a nivel técnico está realizado en dos notebooks: dataset y modelos
    - LSTM Time-Aware (secuencias irregulares)
    - Evaluación
 ---
-
-## 🚀 Uso del repositorio
-
-### Instalar dependencias
-pip install -r requirements.txt
-
