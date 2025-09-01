@@ -1,0 +1,2 @@
+# TFG-Aplicaci-n-de-t-cnicas-de-aprendizaje-autom-tico-sobre-datos-con-muestreo-irregular
+Este proyecto forma parte de mi TFG en Matemáticas. El objetivo es predecir la presión transmembrana (TMP) en un sistema de biorreactor de membrana (MBR), un parámetro crítico en el tratamiento de aguas residuales. El dataset presenta series temporales irregulares, lo que plantea un reto para los modelos tradicionales de machine learning.
